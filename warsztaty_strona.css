@@ -1,0 +1,86 @@
+body {
+    background-color: aliceblue;
+}
+
+h2 {
+    font-name: courier;
+    font-family: sans-serif;;
+    font-size: large;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+p {
+    font-name: courier;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+.naglowek{
+
+
+}
+/*strona główna*/
+#menu
+{
+    list-style-type: none;
+    display: inline;
+    text-decoration: none;
+    padding: .2em 1em;
+
+}
+
+.div_menu {
+    float: right;
+    padding-top: 20px;
+    font-name: courier;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.flowers{
+    height: 194px;
+    background-image: url("folk_flowers.jpg");
+    margin-top: 30px;
+    margin-bottom: 50px;
+
+}
+
+.opis{
+    margin-left: 30px;
+}
+
+/*strona portfolio*/
+
+.row {
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 30px;
+}
+
+/*strona CV*/
+.CV {
+    font-name: courier;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+/*strona kontakt*/
+
+
+#telephone{
+    padding-left: 300px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#namiary {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 100px;
+}
+
+#info_kontakt {
+    font-size: 15px;
+}
